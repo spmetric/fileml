@@ -27,4 +27,7 @@ A basic XML syntax which allows the embedding of files into an XML structure.
 
 Namespace
 ---------
-FileML can be used without namespaces, but if you want to nest XML inside files, it will probably be valuable to distinguish FileML from the nested XML, and the namespace urn:xmlns:spmetric.com:fileml:1.0 can be used for this purpose.
+FileML can be used without namespaces, but if you want to nest XML inside
+files, it will probably be valuable to distinguish FileML from the nested XML,
+and the namespace urn:xmlns:spmetric.com:fileml:1.0 can be used for this
+purpose.
